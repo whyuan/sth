@@ -1,0 +1,24 @@
+/*
+王浩源
+10389006
+web2.0
+homework1
+index.html样式表
+20121007
+*/
+body {
+	width: 800px;
+	margin: auto;
+	font-family: Arial, Verdana, Sans-serif;
+}
+#info div {
+	margin-right: 100px;
+	float: left;
+}
+li {
+	list-style-type: none;
+}
+#recommend {
+	font-weight: bold;
+	font-size: 20px;
+}
